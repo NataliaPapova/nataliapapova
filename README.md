@@ -2,7 +2,7 @@
 ## Natallia Papova
 ### QA Engineer
 
-I'm Natallia. I want to help companies to ensure their products are well tested and fit with quality standards. I have strong critical thinking skills and am well familiar with the basics of testing. I am a team player and willing to work with others to create and test software.
+I'm Natallia. I want to help companies to ensure their products are well tested and fit with quality standards. I have strong critical thinking skills and am well familiar with the basics of testing. I am a team player and willing to work with others to make software better.
 
 #### My CV
 [Link to my CV](https://drive.google.com/file/d/1op9Sgg7TocsNHZV9IasBHRoQ5cyfWXEu/view?usp=sharing)
