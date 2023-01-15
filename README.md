@@ -26,8 +26,4 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 - :memo:Bug-Reports
 
 
-Skills: Testing documentation (Test Planning, Checklist, Test Cases, Defect Report, Test result report), Manual Testing, API Testing, Web Testing , Mobile Testing, SQL (tables creation, data amending, data queries), Postman, Jira, Agile, Scrum Reporting & Analysis Data exchange text formats: JSON and XML  HTTP requests - (GET, POST, PUT, DELETE) 
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nataliapapova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/natallia-papova-4a199a208/)  
