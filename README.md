@@ -7,6 +7,10 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 #### My CV
 [Link to my CV](https://github.com/NataliaPapova/nataliapapova/blob/main/Natallia_Papova_QA_CV.pdf)
 
+#### Education
+- "Software Testing" at Stormnet Technologies LLC. [Certificate of completion]()
+- "Introduction to Software Testing" at EPAM Systems Inc. [Certificate of completion]()
+
 #### Testing documentation
 Checklists
 Test-Cases
