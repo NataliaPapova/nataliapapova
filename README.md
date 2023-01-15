@@ -9,7 +9,7 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 
 #### Education
 - "Software Testing" at Stormnet Technologies LLC. [Certificate of completion](https://github.com/NataliaPapova/nataliapapova/blob/main/CCI16032022.jpg)
-- "Introduction to Software Testing" at EPAM Systems Inc. [Certificate of completion]()
+- "Introduction to Software Testing" at EPAM Systems Inc. [Certificate of completion](https://github.com/NataliaPapova/nataliapapova/blob/main/CCI16032022_0001.jpg)
 
 #### Testing documentation
 Checklists
