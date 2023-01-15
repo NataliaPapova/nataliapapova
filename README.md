@@ -5,7 +5,7 @@
 I'm Natallia from Belarus. I want to change my field of work and become a QA engineer. I really enjoy learning about software testing and gaining new knowledge.
 
 #### My CV
-[Link to my CV](https://github.com/NataliaPapova/nataliapapova/blob/main/Natallia_Papova_QA_CV.pdf)
+[Link to my CV](https://drive.google.com/file/d/1op9Sgg7TocsNHZV9IasBHRoQ5cyfWXEu/view?usp=sharing)
 
 #### Education
 - "Software Testing" at Stormnet Technologies LLC. [Certificate of completion](https://github.com/NataliaPapova/nataliapapova/blob/main/CCI16032022.jpg)
