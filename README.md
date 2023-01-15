@@ -24,7 +24,7 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 #### Testing documentation
 - :memo:Checklists
 - :memo:Test-Cases
-- :memo:Bug-Reports
+- :memo:[Bug-Reports](https://docs.google.com/spreadsheets/d/10FEgipn43InUJm7ZvhqDH06vtHFDHi3JQ3Pzgl-Kia0/edit?usp=sharing)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nataliapapova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/natallia-papova-4a199a208/)  
