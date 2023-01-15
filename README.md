@@ -22,7 +22,7 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 - Python, Jupyter Notebook, PyCharm
 
 #### Testing documentation
-- :memo:Checklists
+- :memo:[Checklists, List of scenarios](https://docs.google.com/spreadsheets/d/1BEUcUT_UePLhGN3qPO4homSrDoXPX5Eg/edit?usp=sharing&ouid=116935882450327897510&rtpof=true&sd=true)
 - :memo:[Test-Cases](https://docs.google.com/spreadsheets/d/1HNF0hJ9tnWKi9tRpzi-lCdAerCmCBgfj/edit?usp=sharing&ouid=116935882450327897510&rtpof=true&sd=true)
 - :memo:[Bug-Reports](https://docs.google.com/spreadsheets/d/10FEgipn43InUJm7ZvhqDH06vtHFDHi3JQ3Pzgl-Kia0/edit?usp=sharing)
 - :memo:[Defining the expected result in detail](https://docs.google.com/document/d/147ToJ44TNB8joxVM2ieDL1Gydz4lxsq5e3-3A0WinIw/edit?usp=sharing)
