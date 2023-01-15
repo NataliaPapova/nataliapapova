@@ -4,7 +4,7 @@
 
 I'm Natallia from Belarus. I want to change my field of work and become a QA engineer. I really enjoy learning about software testing and gaining new knowledge.
 
-### My CV
+#### My CV
 
 
 Skills: Testing documentation (Test Planning, Checklist, Test Cases, Defect Report, Test result report), Manual Testing, API Testing, Web Testing , Mobile Testing, SQL (tables creation, data amending, data queries), Postman, Jira, Agile, Scrum Reporting & Analysis Data exchange text formats: JSON and XML  HTTP requests - (GET, POST, PUT, DELETE) 
