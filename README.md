@@ -12,12 +12,17 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 - "Introduction to Software Testing" at EPAM Systems Inc. [Certificate of completion](https://github.com/NataliaPapova/nataliapapova/blob/main/CCI16032022_0001.jpg)
 
 #### Skills and Tools
-:page_facing_up:Testing documentation  :computer:Web testing  :iphone:Mobile testing  :desktop_computer:Api testing
+- Testing documentation (Test Planning, Checklist, Test Cases,Defect Report, Test result report)
+- Manual Testing (API Testing, Web Testing , Mobile Testing)
+- SQL (tables creation, data amending, data queries)  
+- Postman, Jira Agile, Scrum Reporting & Analysis
+- Data exchange text formats: JSON and XML 
+- HTTP requests - (GET, POST, PUT, DELETE) 
 
 #### Testing documentation
-Checklists
-Test-Cases
-Bug-Reports
+- Checklists
+- Test-Cases
+- Bug-Reports
 
 
 Skills: Testing documentation (Test Planning, Checklist, Test Cases, Defect Report, Test result report), Manual Testing, API Testing, Web Testing , Mobile Testing, SQL (tables creation, data amending, data queries), Postman, Jira, Agile, Scrum Reporting & Analysis Data exchange text formats: JSON and XML  HTTP requests - (GET, POST, PUT, DELETE) 
