@@ -12,7 +12,7 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 - "Introduction to Software Testing" at EPAM Systems Inc. [Certificate of completion](https://github.com/NataliaPapova/nataliapapova/blob/main/CCI16032022_0001.jpg)
 
 #### Skills and Tools
-:page_facing_up:Testing documentation
+:page_facing_up:Testing documentation 	:computer:Web testing
 
 #### Testing documentation
 Checklists
