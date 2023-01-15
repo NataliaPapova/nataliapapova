@@ -20,9 +20,9 @@ I'm Natallia from Belarus. I want to change my field of work and become a QA eng
 - HTTP requests - (GET, POST, PUT, DELETE) 
 
 #### Testing documentation
-- Checklists
-- Test-Cases
-- Bug-Reports
+:memo: Checklists
+:memo: Test-Cases
+:memo: Bug-Reports
 
 
 Skills: Testing documentation (Test Planning, Checklist, Test Cases, Defect Report, Test result report), Manual Testing, API Testing, Web Testing , Mobile Testing, SQL (tables creation, data amending, data queries), Postman, Jira, Agile, Scrum Reporting & Analysis Data exchange text formats: JSON and XML  HTTP requests - (GET, POST, PUT, DELETE) 
